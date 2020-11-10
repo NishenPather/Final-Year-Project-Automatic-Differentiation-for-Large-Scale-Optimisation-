@@ -1,0 +1,1 @@
+This folder contains 2 notebooks. One computes the jacobian of a bundle adjustment problem on a CPU and the other on a GPU. These notebooks were implemented using Google Colab and are very memory intensive. The dataset which you want to evaluate needs to be uncommented. Datasets made available at: https://grail.cs.washington.edu/projects/bal/
